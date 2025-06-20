@@ -1,4 +1,4 @@
-# LEAF DISEASE CLASSIFICATION SYSTEM
+# LEAF DISEASE CLASSIFICATION SYSTEM using CNN
 
 ![Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/website.gif)
 
