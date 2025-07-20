@@ -1,4 +1,4 @@
-# 🍀 LEAF DISEASE CLASSIFICATION SYSTEM
+# 🍀 Leaf Disease Classification System
 
 ![Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/website.gif)
 
@@ -24,4 +24,3 @@ streamlit run main.py
 
 ## Model Details
 This leaf disease classification model is built using deep learning techniques, and it uses transfer learning to leverage the pre-trained knowledge of a base model. The model is trained on a dataset containing images of 33 different types of leaf diseases. For more information about the architecture, dataset, and training process, please refer to the code and documentation provided.
-
