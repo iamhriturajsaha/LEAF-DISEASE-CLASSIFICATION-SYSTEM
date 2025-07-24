@@ -1,4 +1,4 @@
-# Leaf Disease Classification System
+# 🌿Leaf Disease Classification System
 
 A deep learning-based system for automated identification and classification of plant leaf diseases using Convolutional Neural Networks (CNN). This project helps agricultural professionals, researchers and plant enthusiasts quickly and accurately diagnose plant diseases from leaf images using the PlantVillage dataset.
 
