@@ -91,9 +91,9 @@ The model is trained on the **PlantVillage dataset**, which contains -
 
 ## 🔮 Future Enhancements
 
-- [ ] Mobile application development
-- [ ] Real-time camera integration
-- [ ] Treatment recommendations
-- [ ] Multi-language support
-- [ ] Batch processing capabilities
-- [ ] API endpoint development
+- Mobile application development
+- Real-time camera integration
+- Treatment recommendations
+- Multi-language support
+- Batch processing capabilities
+- API endpoint development
